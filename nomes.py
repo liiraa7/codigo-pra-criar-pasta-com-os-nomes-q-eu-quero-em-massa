@@ -23,3 +23,5 @@ with open('nomes_das_pastas.txt', 'w') as f:
 
 print("Nomes das pastas salvos em 'nomes_das_pastas.txt")
 1
+
+#teste
